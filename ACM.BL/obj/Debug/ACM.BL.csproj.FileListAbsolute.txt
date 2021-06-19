@@ -1,0 +1,9 @@
+D:\Programs\.Net\ACM\ACM.BL\bin\Debug\ACM.BL.dll
+D:\Programs\.Net\ACM\ACM.BL\bin\Debug\ACM.BL.pdb
+D:\Programs\.Net\ACM\ACM.BL\obj\Debug\ACM.BL.csproj.AssemblyReference.cache
+D:\Programs\.Net\ACM\ACM.BL\obj\Debug\ACM.BL.csproj.CoreCompileInputs.cache
+D:\Programs\.Net\ACM\ACM.BL\obj\Debug\ACM.BL.dll
+D:\Programs\.Net\ACM\ACM.BL\obj\Debug\ACM.BL.pdb
+D:\Programs\.Net\ACM\ACM.BL\bin\Debug\Acme.Common.dll
+D:\Programs\.Net\ACM\ACM.BL\bin\Debug\Acme.Common.pdb
+D:\Programs\.Net\ACM\ACM.BL\obj\Debug\ACM.BL.csproj.CopyComplete
